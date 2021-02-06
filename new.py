@@ -6,3 +6,4 @@ def func(x):
 
 print(func(4))
 print("hello world")
+print(func(3))
